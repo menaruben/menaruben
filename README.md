@@ -18,4 +18,4 @@
 <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Other/arduino-1.svg" alt="Arduino" width="40" height="40"/>
 </p>
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=menaruben&theme=nord&hide_border=false&include_all_commits=true&count_private=true&layout=compact&hide=processing&langs_count=6)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=menaruben&theme=nord&hide_border=false&include_all_commits=true&count_private=true&layout=compact&hide=processing&langs_count=8)
